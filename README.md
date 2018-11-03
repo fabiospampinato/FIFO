@@ -1,8 +1,5 @@
 # Fifo
 
-![Issues](https://img.shields.io/github/issues/fabiospampinato/fifo.svg)
-[![NPM version](https://img.shields.io/npm/v/@fabiospampinato/fifo.svg)](https://www.npmjs.com/package/@fabiospampinato/fifo)
-
 Simple FIFO queue implementation.
 
 ## Install
