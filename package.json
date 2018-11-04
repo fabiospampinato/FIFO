@@ -1,6 +1,6 @@
 {
   "name": "@fabiospampinato/fifo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple FIFO queue implementation.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -18,7 +18,9 @@
     "prepublish": "npm run clean && npm run compile && npm run coverage"
   },
   "ava": {
-    "files": ["test/index.js"]
+    "files": [
+      "test/index.js"
+    ]
   },
   "bugs": {
     "url": "https://github.com/fabiospampinato/fifo/issues"
