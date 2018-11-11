@@ -65,4 +65,4 @@ class FIFO {
 
 /* EXPORT */
 
-export = Object.assign ( FIFO, { default: FIFO } );
+export default FIFO;
